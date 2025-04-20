@@ -78,5 +78,5 @@ Além do desempenho financeiro inferior, a Loja 4 também registra a segunda pio
 
 No que diz respeito à composição das vendas, o produto mais vendido da Loja 4 é a cama box, pertencente à categoria de móveis — uma das categorias de maior volume de vendas em todas as lojas. Por outro lado, o produto menos vendido é a guitarra, inserida na categoria de instrumentos musicais, que consistentemente apresenta a menor demanda no conjunto das lojas avaliadas.
 
-###Recomendação para Fechamento
+### Recomendação para Fechamento
 Com base nos indicadores analisados, recomenda-se o fechamento da Loja 4, uma vez que ela apresenta o menor faturamento total, a menor rentabilidade por pedido e uma das piores médias de avaliação dos clientes.
